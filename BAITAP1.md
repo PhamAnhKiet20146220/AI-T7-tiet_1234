@@ -1,4 +1,4 @@
-# AI-sang-T7
+# AI-T7-Tiet 1 2 3 4
 Phạm Anh Kiệt - 20146220
 
 Question 1. There are different interpretations of artificial intelligence in different contexts. Please elaborate on the artificial intelligence in your eyes.
